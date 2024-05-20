@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394559319454",
+    "project_id": "restoordrer",
+    "storage_bucket": "restoordrer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394559319454:android:9f3a64b9cfae69a1c3fa8f",
+        "android_client_info": {
+          "package_name": "com.example.restoorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Z2EuUViNrxXVIAQDrKlHfIvcJwuMlX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
