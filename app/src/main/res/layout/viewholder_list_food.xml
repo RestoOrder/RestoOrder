@@ -43,15 +43,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
-            <ImageView
-                android:id="@+id/imageView8"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="8dp"
-                app:layout_constraintBottom_toBottomOf="@+id/timeTxt"
-                app:layout_constraintStart_toEndOf="@+id/timeTxt"
-                app:layout_constraintTop_toTopOf="@+id/timeTxt"
-                app:srcCompat="@drawable/time" />
+
 
             <ImageView
                 android:id="@+id/imageView12"
@@ -93,7 +85,7 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <ImageView
-            android:id="@+id/img"
+            android:id="@+id/img1"
             android:layout_width="0dp"
             android:layout_height="111dp"
             app:layout_constraintEnd_toEndOf="parent"

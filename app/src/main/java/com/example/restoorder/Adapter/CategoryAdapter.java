@@ -81,7 +81,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.viewho
                 .load(drawbaleResourceId)
                 .into(holder.pic);
 
-        holder .itemView.setOnClickListener(v -> {
+        holder.itemView.setOnClickListener(v -> {
             Intent intent=new Intent(context,ListFoodsActivity.class);
             intent.putExtra(  "CategoryId", items.get(position).getId());
             intent.putExtra ( "CategoryName", items.get(position).getName());
